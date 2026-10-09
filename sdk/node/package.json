@@ -1,0 +1,16 @@
+{
+  "name": "shehuiwenwu",
+  "version": "1.0.0",
+  "description": "社会文物网开放平台 Node.js SDK —— 文物资质核验、工商核验、信用评分、被盗（丢失）文物比对、材质断代",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "engines": { "node": ">=18" },
+  "keywords": ["文物", "文物资质", "文物拍卖", "文物商店", "古玩", "收藏", "鉴定", "被盗文物", "信用查询", "shehuiwenwu"],
+  "homepage": "https://www.shehuiwenwu.com",
+  "repository": { "type": "git", "url": "https://github.com/shehuiwenwu/shehuiwenwu-open-sdk.git", "directory": "sdk/node" },
+  "bugs": { "url": "https://github.com/shehuiwenwu/shehuiwenwu-open-sdk/issues" },
+  "license": "MIT",
+  "files": ["index.js", "index.d.ts", "README.md"],
+  "dependencies": {},
+  "publishConfig": { "access": "public" }
+}

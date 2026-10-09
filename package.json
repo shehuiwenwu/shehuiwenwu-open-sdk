@@ -1,0 +1,9 @@
+{
+  "name": "shehuiwenwu-open-sdk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "社会文物网开放平台 SDK —— 文物资质核验、工商核验、信用评分、被盗（丢失）文物比对",
+  "homepage": "https://www.shehuiwenwu.com",
+  "repository": { "type": "git", "url": "https://github.com/shehuiwenwu/shehuiwenwu-open-sdk.git" },
+  "license": "MIT"
+}
